@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "esnext",
+        "watch": true,
+        "lib": ["DOM", "es2021"],
+        "moduleResolution": "Node",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "outDir": "./build",
+        "rootDir": "./src"
+    }
+}
